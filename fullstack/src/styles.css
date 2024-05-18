@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+.body{
+    background-image: url("assets/vecteezy_hexagon-abstract-modern-background-with-overlapping-triangle_5909540.jpg")
+    ;
+    background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      overflow-x: hidden;
+}
+
+
+footer {
+
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Match with Bootstrap's bg-light */
+  }
+
